@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.trueblocks"
+    namespace = "com.example.blockcrack"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.trueblocks"
+        applicationId = "com.example.blockcrack"
         minSdk = 31
         targetSdk = 36
         versionCode = 1
