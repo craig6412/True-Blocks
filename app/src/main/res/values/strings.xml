@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Block Crack</string>
+    <string name="app_name">Block Rise (Zen)</string>
+    <string name="hud_score">Score</string>
+    <string name="hud_lines">Lines</string>
+    <string name="hud_chain">Chain</string>
+    <string name="hud_next">Next</string>
+    <string name="hud_hold">Hold</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_settings">Settings</string>
+    <string name="mode_zen">Zen</string>
+    <string name="mode_classic">Classic Relax</string>
+    <string name="setting_hold">Enable Hold</string>
+    <string name="setting_show_grid">Show Grid</string>
+    <string name="setting_left_handed">Left-handed controls</string>
+    <string name="setting_music">Music volume</string>
+    <string name="setting_sfx">SFX volume</string>
+    <string name="setting_speed">Gravity speed</string>
+    <string name="setting_nudges">On-screen nudges</string>
 </resources>
